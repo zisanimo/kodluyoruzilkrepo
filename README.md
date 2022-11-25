@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](LICENSE)
 
-![Alt text](../images/Ekran%20Resmi%202022-11-25%2014.26.40.png)
+![Alt text](images/Ekran%20Resmi%202022-11-25%2014.26.40.png)
